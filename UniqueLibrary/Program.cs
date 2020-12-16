@@ -8,7 +8,7 @@
 // 1 - Print result of calculation foreach input value to the console.
 // 2 - Come up with workaround for the issue described above.
 // 3 - If the library does not return control, print to the console the message "An error occurred
-//     while getting the result for the {input_value}". Try two more times to get the result for
+//     while getting the result for value: {input_value}". Try two more times to get the result for
 //     the given value. In case of three unsuccessful attempts, continue the calculation for other
 //     input values
 using System;
