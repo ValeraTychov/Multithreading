@@ -22,6 +22,7 @@ namespace UniqueLibrary
         {
             var array = Enumerable.Range(1, 1000).ToArray();
 
+            // todo Make sure this approach doesn't work. Make your own solution instead.
             foreach (var item in array)
             {
                 Console.WriteLine(CalculateSomethingMarvelous(item));
